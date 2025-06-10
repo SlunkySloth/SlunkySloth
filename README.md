@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @SlunkySloth
-- 👀 I’m interested in learning to code and create stuff...
-- 🌱 I’m currently python ...
-- 📫 @padmanaban__ on instagram
-- 😄 Pronouns: he
-- ⚡ Fun fact: im a lonely 17 year old kid
+Hi  my name is padmanaban but you can call me "P".
 
-<!---
-SlunkySloth/SlunkySloth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+if you get my reference you are my friend .
